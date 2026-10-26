@@ -7,9 +7,9 @@ I don't even know if i'll update it but if i do it's probably not gonna be much.
 
 ## Requirements
 
-Device: **Any device running macOS**
-OS: **macOS** (i think that was obvious tho)
-CPU: **Any** (Will **NOT** work on **Apple Silicon** once **macOS 28** comes out.)
+1. Device: **Any device running macOS**
+2. OS: **macOS** (i think that was obvious tho)
+3. CPU: **Any** (Will **NOT** work on **Apple Silicon** once **macOS 28** comes out.)
 
 ## How to install
 
