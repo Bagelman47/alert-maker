@@ -5,11 +5,15 @@
 alert maker is a macOS app made on an Intel Mac. It wasn't super simple to make but it was still kinda simple (and by kinda simple i mean not simple at all) since i had to code it in Swift.
 I don't even know if i'll update it but if i do it's probably not gonna be much.
 
+---
+
 ## Requirements
 
 1. Device: **Any device running macOS**
 2. OS: **macOS** (i think that was obvious tho)
 3. CPU: **Any** (Will **NOT** work on **Apple Silicon** once **macOS 28** comes out.)
+
+---
 
 ## How to install
 
