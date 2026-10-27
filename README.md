@@ -16,3 +16,10 @@ I don't even know if i'll update it but if i do it's probably not gonna be much.
 1. **Download [alert-maker-installer.dmg](https://github.com/Bagelman47/alert-maker/releases/download/v1.0.0/alert-maker-installer.dmg)**
 2. **Run alert-maker-installer.dmg**
 3. **Drag alert-maker into your Applications folder and open the app!**
+
+---
+
+## License
+
+Copyright © 2026 Bagel Studios. All Rights Reserved. 
+See the [LICENSE.md](LICENSE.md) file for full details.
