@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2026 [Bagel Studios]. All Rights Reserved.
+Copyright (c) 2026 Bagel Studios. All Rights Reserved.
 
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL. 
 UNAUTHORIZED COPYING, TRANSFERRING, OR REPRODUCTION OF ANY PART 
